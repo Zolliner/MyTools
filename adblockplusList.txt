@@ -44,6 +44,9 @@ weibo.com##.UG_left_nav
 !天翼云盘
 cloud.189.cn##.cloud-default-bg
 
+!简书
+jianshu.com##._3Z3nHf
+
 !其他
 latexlive.com###img_eqcode
 www.bidianer.com##.menu-cool
