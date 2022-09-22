@@ -3,9 +3,7 @@
 !AdGuard列表
 
 !哔哩哔哩
-!bilibili.com##.international-home
-!bilibili.com##.international-footer
-bilibili.com###i_cecream
+bilibili.com##.bili-feed4
 
 !百度
 baidu.com###con-ar
